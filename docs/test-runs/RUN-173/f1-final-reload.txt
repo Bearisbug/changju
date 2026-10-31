@@ -1,0 +1,196 @@
+- banner:
+  - link "shoota 首页":
+    - /url: "#store"
+  - navigation "主导航":
+    - link "商店":
+      - /url: "#store"
+    - link "游戏库":
+      - /url: "#library"
+    - link "存档":
+      - /url: "#backup"
+  - generic: 搜索游戏
+  - searchbox "搜索游戏"
+  - button "账号菜单": 玩
+- main
+- button "退出游戏":
+  - generic: 退出游戏
+- generic: F1-Driver
+- generic: 2026 · Racing Bulls · 5 场比赛
+- button "已读取存档" [disabled]
+- generic: 本次 4 分钟
+- button "全屏":
+  - generic: 全屏
+- iframe:
+  - banner:
+    - generic: RB
+    - generic: "Racing Bulls · 发布验收 #66"
+    - generic: 2026 · R5/22 · 加拿大大奖赛 · 赛后复盘 · 原版布局 2026.10.31.8
+    - generic: 车手积分
+    - text: P11 · 5 分
+    - generic: 个人资产
+    - text: $1.45M
+    - generic: 人气
+    - text: "23"
+    - generic: 领队信任
+    - text: "100"
+    - button "查看比赛结果"
+  - navigation "游戏导航":
+    - button "驾驶舱"
+    - button "车手档案"
+    - button "人气与收入"
+    - button "围场关系"
+    - button "围场纪事"
+    - button "我的生涯"
+    - button "比赛周末"
+    - button "赛季日历"
+    - button "积分榜"
+    - button "车手市场"
+    - button "车队一览"
+    - button "全球影响力"
+    - button "历史排名"
+    - button "荣誉殿堂"
+    - button "存档与设置"
+    - button "玩法说明"
+  - main:
+    - heading "本站结算" [level=1]
+    - paragraph: 加拿大大奖赛 · 成绩、成长、收入与采访
+    - status: 本站模拟完成 · 自动处理了剩余流程和采访，已停在结算。具体决定可在下方回顾。
+    - generic: P9 · 2 分
+    - generic: P4 发车 · 1 次进站
+    - generic: 队友 P17
+    - generic: 本站到账 $0.23M · 已结算
+    - heading "赛后采访" [level=2]
+    - status:
+      - text: 感谢车队，我们一起做到了
+      - paragraph: 主要改善团队合作；关注回报仍取决于本站成绩。
+    - heading "人气、收入与成长" [level=2]
+    - heading "这一站带来了什么 查看个人账目" [level=3]:
+      - text: 这一站带来了什么
+      - button "查看个人账目"
+    - generic: 人气 +1.0
+    - generic: 车迷 +0.6 万
+    - generic: 本场到账 $0.231M
+    - generic: 其中商业分成 $0.013M
+    - generic: 传奇 +3.3
+    - generic: 本场永久成长：速度 +0.10 · 缠斗 +0.15 · 稳定 +0.15 · 保胎 +0.15 · 雨战 +0.00
+    - heading "车库关系" [level=2]
+    - generic: 领队 100
+    - generic: 队友 100
+    - generic: 工程师 100
+    - generic: 竞争压力 0%
+    - paragraph: 你们信任彼此。可以争取胜利，也可以共享数据、互相支持；竞争压力不等于内斗。
+    - generic "比赛决策回顾 · 19 条"
+    - heading "正赛完整成绩" [level=2]
+    - list:
+      - generic: "1"
+      - text: Kimi Antonelli
+      - generic: Mercedes
+      - text: 94:40.161
+      - generic: 1 停 · 25 分
+      - generic: "2"
+      - text: Lewis Hamilton
+      - generic: Ferrari
+      - text: "+21.17"
+      - generic: 2 停 · 18 分
+      - generic: "3"
+      - text: Lando Norris
+      - generic: McLaren
+      - text: "+25.80"
+      - generic: 1 停 · 15 分
+      - generic: "4"
+      - text: Pierre Gasly
+      - generic: Alpine
+      - text: "+27.07"
+      - generic: 1 停 · 12 分
+      - generic: "5"
+      - text: George Russell
+      - generic: Mercedes
+      - text: "+29.04"
+      - generic: 2 停 · 10 分
+      - generic: "6"
+      - text: Max Verstappen
+      - generic: Red Bull
+      - text: "+31.67"
+      - generic: 2 停 · 8 分
+      - generic: "7"
+      - text: Charles Leclerc
+      - generic: Ferrari
+      - text: "+37.08"
+      - generic: 2 停 · 6 分 · 罚 5s
+      - generic: "8"
+      - text: Oliver Bearman
+      - generic: Haas
+      - text: "+40.33"
+      - generic: 1 停 · 4 分
+      - generic: "9"
+      - text: 发布验收
+      - generic: Racing Bulls
+      - text: "+46.91"
+      - generic: 1 停 · 2 分
+      - generic: "10"
+      - text: Franco Colapinto
+      - generic: Alpine
+      - text: "+48.18"
+      - generic: 2 停 · 1 分
+      - generic: "11"
+      - text: Nico Hülkenberg
+      - generic: Audi
+      - text: "+48.62"
+      - generic: 1 停 · 0 分
+      - generic: "12"
+      - text: Oscar Piastri
+      - generic: McLaren
+      - text: "+49.71"
+      - generic: 3 停 · 0 分
+      - generic: "13"
+      - text: Isack Hadjar
+      - generic: Red Bull
+      - text: "+57.57"
+      - generic: 2 停 · 0 分
+      - generic: "14"
+      - text: Esteban Ocon
+      - generic: Haas
+      - text: "+73.24"
+      - generic: 2 停 · 0 分
+      - generic: "15"
+      - text: Gabriel Bortoleto
+      - generic: Audi
+      - text: "+77.47"
+      - generic: 2 停 · 0 分
+      - generic: "16"
+      - text: Fernando Alonso
+      - generic: Aston Martin
+      - text: "+80.78"
+      - generic: 1 停 · 0 分
+      - generic: "17"
+      - text: Liam Lawson
+      - generic: Racing Bulls
+      - text: "+81.04"
+      - generic: 3 停 · 0 分
+      - generic: "18"
+      - text: Alexander Albon
+      - generic: Williams
+      - text: "+105.32"
+      - generic: 2 停 · 0 分
+      - generic: "19"
+      - text: Lance Stroll
+      - generic: Aston Martin
+      - text: "+116.70"
+      - generic: 2 停 · 0 分
+      - generic: "20"
+      - text: Sergio Pérez
+      - generic: Cadillac
+      - text: "+126.38"
+      - generic: 2 停 · 0 分
+      - generic: DNF
+      - text: Carlos Sainz
+      - generic: Williams
+      - text: 事故
+      - generic: 2 停 · 0 分
+      - generic: DNF
+      - text: Valtteri Bottas
+      - generic: Cadillac
+      - text: 动力单元故障
+      - generic: 0 停 · 0 分
+    - button "前往下一站"
+  - status

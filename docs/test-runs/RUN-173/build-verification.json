@@ -1,0 +1,47 @@
+[
+  {
+    "id": "f1-driver",
+    "source": "/Users/leizhang/Documents/ChatGPT/shoota/f1-driver-career/dist/index.html",
+    "sha256": "397366d2cbfbfe480fe17a60a127f6a7027dfd23c39ac6f679ac651d28117dea",
+    "bytes": 668788,
+    "title": "F1车手",
+    "summary": "同页流程、模拟本站、进站计划及手机临场固定操作区",
+    "frozenAt": "2026-10-31T21:43:52.590415+08:00"
+  },
+  {
+    "id": "lol",
+    "source": "/Users/leizhang/Documents/ChatGPT/shoota/lol-manager/public/games/lol.html",
+    "sha256": "9f46b1fc240a4a478efce5c9c282deaf6292172540295ae553618ce6842c0985",
+    "bytes": 3126269,
+    "title": "我在LOL建银河战队",
+    "frozenAt": "2026-10-31T21:39:11.707439+08:00",
+    "summary": "赛事奖项、世界赛前瞻及地区球迷人气"
+  },
+  {
+    "id": "lol-player",
+    "source": "/Users/leizhang/Documents/ChatGPT/shoota/lol-player/dist/lol-player.html",
+    "sha256": "0433fcfbad09b93eeb039c6e81374bfda0b2fce57da363e08c0be7d2c8df5486",
+    "bytes": 6749923,
+    "title": "我是职业通天代",
+    "frozenAt": "2026-10-31T21:39:11.707753+08:00",
+    "summary": "单局MVP、赛季荣誉、人气及个人比赛成长优化"
+  },
+  {
+    "id": "rental-empire",
+    "source": "/Users/leizhang/Documents/ChatGPT/shoota/rental-empire/output/interaction-pagination-fix-20261031/rental-empire.html",
+    "sha256": "cac17cf7a674ab58480c1c1e58a68d0ddca52478cffc99b868aad362670f5baf",
+    "bytes": 343198,
+    "title": "脚踩神州，拳打一嗨",
+    "frozenAt": "2026-10-31T21:39:11.708067+08:00",
+    "summary": "同页开业、车型目录分页与采购操作优化"
+  },
+  {
+    "id": "global-martial",
+    "source": "/Users/leizhang/Documents/ChatGPT/shoota/global-martial/dist/index.html",
+    "sha256": "119a3b2ddb1390e86849124b18f89b056d65f4aedfe9ea67b8dcd9f9ea7df522",
+    "bytes": 406769,
+    "title": "全球高武",
+    "frozenAt": "2026-10-31T21:39:11.708388+08:00",
+    "summary": "全球高武文字版首次上架，角色属性命格与故事选择"
+  }
+]
